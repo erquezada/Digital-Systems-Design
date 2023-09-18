@@ -1,6 +1,6 @@
 # Digital-Systems-Design
 
-(Note to view the files associated with this repo, change the active branch from "main" branch to "master" branch). Once there you will be able to view 6 folders: lab 2, lab 4, lab 5, lab 6, lab 7, and lab 8).
+(Note to view the files associated with this repo, change the active branch from "main" branch to "master" branch). Once there you will be able to view 8 folders: lan 1 lab 2, lab 4, lab 5, lab 6, lab 7, and lab 8).
 
 This repository provides an overview of a course designed to teach students how to implement digital logic systems using the Xilinx ISE environment on the Xilinx Spartan 3 FPGA chipset. The course is structured into seven main topics, including design description, synthesis, constraints, implementation, result analysis, debug, and device programming.
 
